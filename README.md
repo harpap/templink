@@ -7,3 +7,6 @@ tensorflow-gpu==1.12 \
 cudatoolkit==9.0 \
 cudnn=7.1.2 \
 h5py
+
+
+ps -p $PID -o pid,vsz=MEMORY -o user,group=GROUP -o comm,args=ARGS
