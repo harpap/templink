@@ -9,3 +9,4 @@ cudnn=7.1.2 \
 h5py
 
 https://github.com/nmpartzio/elNER
+http://redac.univ-tlse2.fr/corpora/wikipedia_en.html
